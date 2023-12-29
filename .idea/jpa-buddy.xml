@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" migrateIndexesAndConstraints="true">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="4e65df6f-ee93-450d-b065-c55764571899" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/miage/bis" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="4e65df6f-ee93-450d-b065-c55764571899" />
+    </reUseDbSnapshotConnections>
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="4e65df6f-ee93-450d-b065-c55764571899" />
+    </option>
+  </component>
+</project>
